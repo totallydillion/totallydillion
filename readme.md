@@ -1,14 +1,14 @@
 - 👋 Hi, I’m @totallydillion
 
 - 👀 I’m interested in:
-- Things.
+- NodeJS.
 
 - 🌱 I’m currently working
-A DISCORD.JS Discord Bot (DeBot)
+- A DISCORD.JS Discord Bot (DeBot)
 
 
 - 📫 How to reach me:
-jeffeezeyt@gmail.com OR Discord; Aluna's Baby#1127
+jeffeezeyt@gmail.com OR Discord; totallydilly#1975
 
 <!---
 totallydillion/totallydillion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
