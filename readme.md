@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @totallydillion
+- 👋 Hi, I’m Dillion !
 
 - 👀 I’m interested in:
 - NodeJS.
@@ -8,7 +8,7 @@
 
 
 - 📫 How to reach me:
-jeffeezeyt@gmail.com OR Discord; totallydilly#1975
+jeffeezeyt@gmail.com OR Discord; totallydillion#1975
 
 <!---
 totallydillion/totallydillion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
