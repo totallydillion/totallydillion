@@ -6,9 +6,7 @@
 - 🌱 I’m currently working
 - A DISCORD.JS Discord Bot (DeBot)
 
-
-- 📫 How to reach me:
-jeffeezeyt@gmail.com OR Discord; totallydillion#1975
+Discord; totallydillion#1975
 
 <!---
 totallydillion/totallydillion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
